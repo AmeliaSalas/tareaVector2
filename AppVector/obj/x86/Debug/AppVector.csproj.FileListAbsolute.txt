@@ -1,0 +1,31 @@
+F:\Programacion2\Visual Studio Express2010\Projects\AppVector\AppVector\bin\Debug\AppVector.exe
+F:\Programacion2\Visual Studio Express2010\Projects\AppVector\AppVector\bin\Debug\AppVector.pdb
+F:\Programacion2\Visual Studio Express2010\Projects\AppVector\AppVector\obj\x86\Debug\AppVector.Properties.Resources.resources
+F:\Programacion2\Visual Studio Express2010\Projects\AppVector\AppVector\obj\x86\Debug\AppVector.csproj.GenerateResource.Cache
+F:\Programacion2\Visual Studio Express2010\Projects\AppVector\AppVector\obj\x86\Debug\AppVector.exe
+F:\Programacion2\Visual Studio Express2010\Projects\AppVector\AppVector\obj\x86\Debug\AppVector.pdb
+I:\Programacion2\Visual Studio Express2010\Projects\AppVector\AppVector\obj\x86\Debug\AppVector.exe
+I:\Programacion2\Visual Studio Express2010\Projects\AppVector\AppVector\obj\x86\Debug\AppVector.pdb
+I:\Programacion2\Visual Studio Express2010\Projects\AppVector\AppVector\obj\x86\Debug\AppVector.frmPrincipal.resources
+I:\Programacion2\Visual Studio Express2010\Projects\AppVector\AppVector\obj\x86\Debug\AppVector.Properties.Resources.resources
+I:\Programacion2\Visual Studio Express2010\Projects\AppVector\AppVector\obj\x86\Debug\AppVector.csproj.GenerateResource.Cache
+I:\Programacion2\Visual Studio Express2010\Projects\AppVector\AppVector\bin\Debug\AppVector.exe
+I:\Programacion2\Visual Studio Express2010\Projects\AppVector\AppVector\bin\Debug\AppVector.pdb
+F:\Programacion2\Visual Studio Express2010\Projects\AppVector\AppVector\obj\x86\Debug\AppVector.csprojResolveAssemblyReference.cache
+F:\Programacion2\Visual Studio Express2010\Projects\AppVector\AppVector\obj\x86\Debug\AppVector.frmPrincipal.resources
+F:\AppVector\AppVector\obj\x86\Debug\AppVector.exe
+F:\AppVector\AppVector\obj\x86\Debug\AppVector.pdb
+F:\AppVector\AppVector\bin\Debug\AppVector.exe
+F:\AppVector\AppVector\bin\Debug\AppVector.pdb
+F:\AppVector\AppVector\obj\x86\Debug\AppVector.csprojResolveAssemblyReference.cache
+F:\AppVector\AppVector\obj\x86\Debug\AppVector.frmPrincipal.resources
+F:\AppVector\AppVector\obj\x86\Debug\AppVector.Properties.Resources.resources
+F:\AppVector\AppVector\obj\x86\Debug\AppVector.csproj.GenerateResource.Cache
+C:\Users\Admin\TareaVector-main\TareaVector-main\AppVector\obj\x86\Debug\APPVector.exe
+C:\Users\Admin\TareaVector-main\TareaVector-main\AppVector\obj\x86\Debug\APPVector.pdb
+C:\Users\Admin\TareaVector-main\TareaVector-main\AppVector\bin\Debug\APPVector.exe
+C:\Users\Admin\TareaVector-main\TareaVector-main\AppVector\bin\Debug\APPVector.pdb
+C:\Users\Admin\TareaVector-main\TareaVector-main\AppVector\obj\x86\Debug\AppVector.csprojResolveAssemblyReference.cache
+C:\Users\Admin\TareaVector-main\TareaVector-main\AppVector\obj\x86\Debug\APPVector.Form1.resources
+C:\Users\Admin\TareaVector-main\TareaVector-main\AppVector\obj\x86\Debug\APPVector.Properties.Resources.resources
+C:\Users\Admin\TareaVector-main\TareaVector-main\AppVector\obj\x86\Debug\AppVector.csproj.GenerateResource.Cache
